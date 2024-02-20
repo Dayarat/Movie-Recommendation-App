@@ -107,7 +107,7 @@ def add_header(q: Q):
         items=[
             ui.link(
                 name="github_btn",
-                path="https://github.com/ChathurindaRanasinghe/book-recommendation-system_using_h2o-wave.git",
+                path="https://github.com/Dayarat/Movie-Recommendation-App",
                 label="GitHub",
                 button=True,
             )
@@ -162,13 +162,13 @@ def add_footer(q: Q):
                             ui.link(
                                 name="github",
                                 label="GitHub",
-                                path="https://github.com/ChathurindaRanasinghe/book-recommendation-system_using_h2o-wave.git",
+                                path="https://github.com/Dayarat/Movie-Recommendation-App",
                                 target="_blank",
                             ),
                             ui.link(
                                 name="linkedin",
                                 label="LinkedIn",
-                                path="https://www.linkedin.com/in/chathurindaranasinghe/",
+                                path="https://www.linkedin.com/in/kavindu-sandaruwan-699973249/",
                                 target="_blank",
                             ),
                         ],
